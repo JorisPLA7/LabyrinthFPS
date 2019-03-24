@@ -27,6 +27,15 @@ By default the game controls are :
 - Joysticks for movement and look.
 - Trigger buttons to sprint.
 
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/JorisPLA7/LabyrinthFPS/master/Screenshots/MainMenu.jpg">
+<img src="https://raw.githubusercontent.com/JorisPLA7/LabyrinthFPS/master/Screenshots/Level1.jpg">
+<img src="https://raw.githubusercontent.com/JorisPLA7/LabyrinthFPS/master/Screenshots/Level4.jpg">
+<img src="https://raw.githubusercontent.com/JorisPLA7/LabyrinthFPS/master/Screenshots/Level4-2.jpg">
+
+
+
 ## TODO
 - bind ```Escape``` key to Scenemanager.loadScene(0)
 
